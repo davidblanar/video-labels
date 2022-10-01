@@ -25,3 +25,5 @@ go.work
 videos/
 workdir/
 output*
+
+.DS_Store
